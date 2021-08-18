@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "652831582249",
+    "project_id": "movies-list-80c66",
+    "storage_bucket": "movies-list-80c66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652831582249:android:088ade42961067c9461438",
+        "android_client_info": {
+          "package_name": "com.susmitayadav.movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652831582249-2m9b00votmq0hk7in0erdcpnquq0t1un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE2X0YwR-ZKafLgiywfSoa8xD3O7-SQIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652831582249-2m9b00votmq0hk7in0erdcpnquq0t1un.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652831582249-0tnv1p65p0ifkg0mrpq9llidiiqs4keg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "om.susmitayadav.movies"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
